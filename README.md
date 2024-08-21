@@ -5,4 +5,4 @@
 - 🧗‍♂️ You can find me rock climbing or playing with my dog, Ollie, in my free time.
 - 📫 How to reach me: wagmanwill@gmail.com or wsilverwagman@tulane.edu
 
-[![My Tech Stack](https://skillicons.dev/icons?i=python,was,react,vue,git,js,html,CSS,vscode)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=python,aws,react,vue,git,js,html,CSS,vscode)](https://skillicons.dev)
